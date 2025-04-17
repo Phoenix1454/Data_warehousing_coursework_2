@@ -40,8 +40,6 @@ Mean values of Recency, Frequency, and Monetary were computed per cluster to der
 
 Each cluster represents a different customer segment, helping guide CRM and marketing strategies.
 
-## 📂 Repository Structure
-
 
 ## 📚 References
 
