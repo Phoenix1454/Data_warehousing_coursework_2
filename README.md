@@ -1,4 +1,4 @@
-# 📊 Data Warehousing Coursework 2 - Customer Segmentation (Task B)
+# 📊 Data Warehousing Coursework 2 - Customer Segmentation
 
 This project performs customer segmentation using RFM (Recency, Frequency, Monetary) analysis and K-Means clustering. It is part of the university coursework for the Data Warehousing and Business Intelligence module.
 
